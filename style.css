@@ -1,0 +1,34 @@
+body {
+    background-color: #a52a2a;
+}
+
+.wrapper {
+    padding-top: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.textarea {
+    width: 800px;
+    height: 200px;
+    margin-bottom: 40px;
+    border-radius: 10px;
+    background-color: #f0f8ff;
+    text-align: center;
+}
+
+.textarea p {
+    font-size: 20px;
+}
+
+.btn {
+    padding: 15px 10px;
+    border: None;
+    border-radius: 10px;
+    background-color: rgb(48, 224, 118);
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
